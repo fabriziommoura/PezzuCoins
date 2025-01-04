@@ -1,28 +1,23 @@
-# Cripto-List   2024
+# PezzuCoins - Your own MONEY!
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/fabriziommoura/microsoftrewardsbot/blob/main/LICENSE) 
 
-This is a CriptoCoins List made in Google Spreadsheets using AI and CoinMarketCap API.
-You can access in this link: https://docs.google.com/spreadsheets/d/1E2SpB_nRZHhPn843Gy70KuPylCTu30fo8AYAJOSR5i4/edit?gid=0#gid=0
+This is a code to play Monopoly and other games using virtual MONEY, you star with 2500 Pezzucoins but can change in the code.
 
 # About the project
 
-Is a Google Spreadsheets that have tha same structure as Microsoft Exel, in it we have the CriptoCoin name, the coin tag and the cripto API from Coin Market Cap update the coin price every 5 minutes. 
-All you need to do is put the coin and the code will say if is a good price to Buy or Sell, based on Fibonacci and EMA 21.
+Made because i had lost all my fake money to play with my friends, so I develop this aplication so anyone with the same issue could play as well.
 
 #
 
 # Technologies used
-- Google Apps Script
-- Java Script
+- Python
 
 # How to run:
 
 ```bash
-# Copy the code to a Google Spreadsheets extension
+# Copy the code to a Python Copiler
 
-# Turn on the Clock activator to 5 Minutes
-
-# Write the Coins and click Save.
+# Save and Run, yes is easy like that!
 ```
 
 
